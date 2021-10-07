@@ -1,1 +1,1 @@
-A informação é demasiado valiosa
+A informação é demasiado valiosa , mas agora como está no git tem de estar mais completa
